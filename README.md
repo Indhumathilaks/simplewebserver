@@ -54,8 +54,8 @@ print("my webserver is running...")
 httpd.serve_forever()
 
 
-## OUTPUT:!
-[alt text](ss.png)
+## OUTPUT:
+![alt text](ss.png)
 
 
 ## RESULT:
